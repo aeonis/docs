@@ -1,0 +1,12 @@
+{
+    "name": "aeonis/docs",
+    "type": "project",
+    "license": "MIT",
+    "description": "Aeonis' Open Source Docs",
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
